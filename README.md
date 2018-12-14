@@ -14,6 +14,7 @@ This is a BETA version of my Best Gamer Plays bot.
 +-----------------------------------------------------------------------------------------------------------------+
 ## Features List
 +-----------------------------------------------------------------------------------------------------------------+
+
 NOTE: 
 We have the future list will get update so therefore what you see its not a final features list.
 
