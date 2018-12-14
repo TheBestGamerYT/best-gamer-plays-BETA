@@ -14,7 +14,8 @@ This is a BETA version of my Best Gamer Plays bot.
 +-----------------------------------------------------------------------------------------------------------------+
 ## Features List
 +-----------------------------------------------------------------------------------------------------------------+
-NOTE: We have the future list will get update so therefor what you see its not a final features list.
+NOTE: 
+We have the future list will get update so therefore what you see its not a final features list.
 
 MISC COMMANDS:
 - ping (its just returns a simple pong)
