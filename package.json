@@ -1,0 +1,16 @@
+{
+  "name": "beta-gamer-bot",
+  "version": "1.0.0",
+  "description": "This is a beta version of the bot(the unstable one)",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheBestGamerYT",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "uws": "^99.0.0",
+    "ws": "^6.1.2"
+  }
+}
