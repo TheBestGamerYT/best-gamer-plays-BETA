@@ -8,7 +8,7 @@ This is a BETA version of my Best Gamer Plays bot.
 - Collaborators: TheBestGamerYT
 - Team: TeamCo7 Developments(dev team), TeamCo7 Clan and TeamCo7 Community(Both clan and community are gaming teams)
 - Current version: 2.0.0
-- Latest update made: Today(14.12.2018)
+- Latest update made: 14.12.2018
 - Prefix: g$
 - Bot Invite: https://discordapp.com/oauth2/authorize?client_id=364021672849833984&scope=bot&permissions=2146958663
 +-----------------------------------------------------------------------------------------------------------------+
