@@ -1,4 +1,4 @@
-# best-gamer-plays-BETA
+# Best-Gamer-Plays-BETA
 This is a BETA version of my Best Gamer Plays bot.
 
 ## Informations
