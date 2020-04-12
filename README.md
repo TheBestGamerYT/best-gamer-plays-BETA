@@ -6,9 +6,9 @@ This is a BETA version of my Best Gamer Plays bot.
 - Owner: TheBestGamerYT
 - Developer: TheBestGamerYT
 - Collaborators: TheBestGamerYT
-- Team: TeamCo7 Developments(dev team), TeamCo7 Clan and TeamCo7 Community(Both clan and community are gaming teams)
-- Current version: 2.0.0
-- Latest update made: 14.12.2018
+- Team: /
+- Current version: 3.0.0
+- Latest update made: 12.04.2020
 - Prefix: g$
 - Bot Invite: https://discordapp.com/oauth2/authorize?client_id=364021672849833984&scope=bot&permissions=2146958663
 +-----------------------------------------------------------------------------------------------------------------+
