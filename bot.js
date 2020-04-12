@@ -16,16 +16,16 @@ client.on('message', msg => {
     msg.channel.send('pong');
   }
   if (msg.content.startsWith(prefix + 'help')) {
-    msg.channel.send('+------------------------------------+ \n Welcome!\n This is a BETA version of Best Gamer Plays bot !\n List of current commands:\n g$ ping - pong \n g$ help - A help page with a lits of commands \n g$ info - A info page about this bot \n g$ todo - Status page \n +------------------------------------+ ');
+    msg.channel.send('+------------------------------------+ \n Welcome!\n This is a BETA version of Best Gamer Plays bot !\n List of current commands:\n g$ ping - pong \n g$ help - A help page with a lits of commands \n g$ info - A info page about this bot \n g$ todo - Status page \n g$ administrative - A list of planned administrative commands \ng$ music - A list of planned music commands \n+------------------------------------+');
   }
   if (msg.content.startsWith(prefix + 'info')) {
-    msg.channel.send('STATUS: |Online| \n Current Version: |2.0.0| \n Developed by | TheBestGamerYT | \n This is a BETA version of Best Gamer Plays bot so expect it to be unstable \n JOIN OUR DEV TEAM: |TeamCo7 Developments| or maybe your prefer gaming ? \n JOIN OUR GAMING TEAMS: |TeamCo7 Clan| or |TeamCo7 Community|');
+    msg.channel.send('STATUS: |Online| \n Current Version: |3.0.0| \n Developed by | TheBestGamerYT | \n This is a BETA version of Best Gamer Plays bot so expect it to be unstable');
   }
   if (msg.content.startsWith(prefix + 'todo')) {
-    msg.channel.send('Planned stuff: \n - Administrative commands(ban,kick,mute) \n - Music Commands(playing music from youtube,pausing,etc..) \n - Expect this list to be fillen in future updated! \n One day this might became a features page instead of todo page');
+    msg.channel.send('Planned stuff: \n - Administrative commands(ban,kick,mute) \n - Music Commands(playing music from youtube,pausing,etc..) \n - Expect this list to be fillen in future updates! \n One day this might became a features page instead of todo page');
   }
-  if (msg.content.startsWith(prefix + 'administrator')) {
-    msg.channel.send('Current Administrative commands are: \n g$ mute - you can mute a choosen player \n g$ kick - you can kick a choosen player g$ ban - you can ban a choosen player');
+  if (msg.content.startsWith(prefix + 'administration')) {
+    msg.channel.send('Current Administrative commands are: \n g$ mute - you can mute a choosen player \n g$ kick - you can kick a choosen player \n g$ ban - you can ban a choosen player');
   }
   if (msg.content.startsWith(prefix + 'music')) {
     msg.channel.send('Current Music Commands are: \n g$ play - select a song name that you wanna hear \n g$ pause - pause the player');
